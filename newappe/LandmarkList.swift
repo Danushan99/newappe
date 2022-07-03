@@ -13,6 +13,7 @@ struct LandmarkList: View {
         List(datasource, id: \.name){ Landmark
             in
             
+            
         }
     }
 }
